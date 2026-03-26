@@ -36,6 +36,7 @@ with sr.AudioFile(audio_file_path) as source:
 
 
 # OUTPUT: 
+<img width="1260" height="476" alt="image" src="https://github.com/user-attachments/assets/0305ec5f-164b-45ca-a094-4a3fcddd6d03" />
 
 
 # RESULT: 
